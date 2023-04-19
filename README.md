@@ -1,1 +1,4 @@
-# SQL
+Project 1 – Creating a Comprehensive Customer 360 View Using SQL - The objective of this SQL case study is to create a customer 360-degree view by consolidating data from multiple tables to create a table with one row per customer and including all known data driven facts about the customer in different columns. This table will serve as the basis for all reporting and analysis related to the customer base. 
+
+
+Project 2 – Analyzing Cellphone Sales Data Using SQL - The SQL case study involves analyzing the "Cellphones Information" database containing details on cell phone sales ortransactions. The objective is to write queries to extract specific information from the database, such as finding the states where customers have bought cellphones from 2005 till today, identifying the state in the US that buys more 'Samsung' cell phones, showing the number of transactions for each model per zip code per state, finding the cheapest cellphone, and so on. The queries are designed to extract the required information and provide insights into customer behavior, popular models, and manufacturers' sales. 
